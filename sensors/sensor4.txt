@@ -1,0 +1,4 @@
+SID: 444
+FRQ: 3
+LNK: ./sns4
+CAR: 0

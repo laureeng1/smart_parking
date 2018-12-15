@@ -1,0 +1,4 @@
+SID: 111
+FRQ: 6
+LNK: ./sns1
+CAR: 0

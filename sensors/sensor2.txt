@@ -1,0 +1,4 @@
+SID: 222
+FRQ: 8
+LNK: ./sns2
+CAR: 1
